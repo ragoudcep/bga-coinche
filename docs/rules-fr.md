@@ -161,7 +161,7 @@ une enchère de deux autres types :
     couleurs !
 
 Dans les deux cas, le total des points ne fait bien évidemment pas 162 ; un
-"produit en croix" par rapport à 152 est alors effectué à la fin de la manche,
+"produit en croix" par rapport à 162 est alors effectué à la fin de la manche,
 et le dernier pli vaut toujours 10 points.
 
 ## La Belote
